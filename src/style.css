@@ -1,0 +1,39 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.imagem-carrosel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrosel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+/* O important faz que passe da cascata sobre todos os outros itens */
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+    border-color: darkred;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
