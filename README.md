@@ -14,15 +14,14 @@ Os objetivos do curso são:
 ### 🖥️  Instalações
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- [Bootstrap](https://getbootstrap.com/)
 
 ### ⚒️  Tecnologias
 
 As ferramentas utilizadas no projeto foram:
 
-- HTML;
-- CSS;
-- Bootstrap.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
 
 &nbsp;
 
