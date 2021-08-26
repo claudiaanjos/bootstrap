@@ -11,16 +11,9 @@ Os objetivos do curso são:
 - Produzir um código HTML e CSS semântico e de qualidade para que leitores de tela e robôs de busca consigam ler bem o seu site;
 - Padronizar os componentes do site ou aplicação web.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-
-### ⚒️  Tecnologias
-
-As ferramentas utilizadas no projeto foram:
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Bootstrap](https://getbootstrap.com/)
 
 &nbsp;
