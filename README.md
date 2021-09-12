@@ -6,9 +6,9 @@
 
 Os objetivos do curso são:
 
-- Utilizar os componentes prontos de navbar, carrossel, cards e modais para criar sites responsivos automaticamente;
-- Usar o método de desenvolvimento front-end para que as aplicações sejam sempre responsivas, simples e funcionais independente do dispositivo;
-- Produzir um código HTML e CSS semântico e de qualidade para que leitores de tela e robôs de busca consigam ler bem o seu site;
+- Utilizar os componentes de navbar, carrossel, cards e modais para criar sites responsivos automaticamente;
+- Usar um método de desenvolvimento para que as aplicações sejam responsivas, simples e funcionais independente do dispositivo;
+- Produzir um código HTML e CSS semântico e de qualidade;
 - Padronizar os componentes do site ou aplicação web.
 
 ### 🖥️  Recursos Utilizados
